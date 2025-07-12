@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
-            We're dedicated to building outstanding brain-training games.
+            We&#39;re dedicated to building outstanding brain-training games.
           </li>
           <li className="tracking-[-.01em]">
             We constantly seek and act on player feedback <br /> to make sure our games are the best they can be.

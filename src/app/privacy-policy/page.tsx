@@ -155,7 +155,7 @@ export default function PolicyPage() {
                     8. Policy Changes
                 </h2>
                 <p style={{ marginBottom: '15px', color: '#F7F7F7' }}>
-                    Our privacy policy may change from time to time. When it does, we will revise the "last updated"
+                    Our privacy policy may change from time to time. When it does, we will revise the &#34;last updated&#34;
                     date at the bottom of the privacy statement. We will obtain your opt-in consent for any updates
                     to this Privacy Policy that materially expand the sharing or use of your personal information
                     in ways not disclosed in this Privacy Policy at the time of collection.
