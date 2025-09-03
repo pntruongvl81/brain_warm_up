@@ -1,5 +1,5 @@
 {
-    "latest_version": "0.0.22",
+    "latest_version": "0.0.24",
     "update_required": true,
-    "update_message": "A new update is available! Download now to discover the exciting new features!"
+    "update_message": "Introduced a new Hero class. Fusion mechanic: Merging two max-level (Level 11) Melee and Ranger units will randomly generate a new Hero with a unique active skill."
 }
